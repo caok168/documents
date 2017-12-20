@@ -1,15 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\SDK\\轨检\\CIT里程断点统计",
-    "\\SDK\\轨检\\TQI计算",
-    "\\SDK\\轨检\\峰峰值统计",
-    "\\SDK\\轨检\\微小变化识别",
-    "\\SDK\\轨检\\无效区段识别",
-    "\\SDK\\轨检\\根据台账进行里程修正",
-    "\\SDK\\轨检\\里程修正",
-    "\\SDK\\轨检\\里程准确性评定",
-    "\\离线加速度"
+    ""
   ],
+  "SelectedNode": "\\进度",
   "PreviewInSolutionExplorer": false
 }
